@@ -8,10 +8,9 @@ It gave me a Skate Board App persona.
 
 UI DESIGN:
 
-![whole](https://github.com/churchill192/Figma-Skate-Board-App-UX-UI/assets/104425652/a57b248c-0dbc-4b5b-936f-ca16dfff039a)
+![whole](https://github.com/churchill192/Figma-Skate-Board-App-UX-UI/assets/104425652/672c2940-01d2-4ca6-9545-5beead9139ed)
 
-
-![whole proto](https://github.com/churchill192/Figma-Skate-Board-App-UX-UI/assets/104425652/d1622d3c-f82f-4e5e-be39-428e3b044847)
+![whole proto](https://github.com/churchill192/Figma-Skate-Board-App-UX-UI/assets/104425652/4f140009-f6ea-4d4f-934c-45f68a01b123)
 
 Prototype Demo:
 
