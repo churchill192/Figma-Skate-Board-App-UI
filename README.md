@@ -15,3 +15,4 @@ UI DESIGN:
 
 Prototype Demo:
 
+https://github.com/churchill192/Figma-Skate-Board-App-UX-UI/assets/104425652/1f857c66-b0a3-45be-9077-005806dd1b3f
